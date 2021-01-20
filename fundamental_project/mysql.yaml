@@ -12,6 +12,6 @@ spec:
     - containerPort: 80
     env:
     - name: MYSQL_DATABASE
-      value: "fundamental_project"
+      value: ""
     - name: MYSQL_ROOT_PASSWORD
-      value: "1234"
+      value: ""
